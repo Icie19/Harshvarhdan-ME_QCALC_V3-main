@@ -1,4 +1,4 @@
-# pravinskadwe-ME_QCALC_V3
+# Harshvardhan-ME_QCALC_V3
 
 ## Java Calculator Project
 
